@@ -1,0 +1,67 @@
+[09-Jan-2019 20:34:14] PHP Notice:  Undefined variable: sub_total in /home3/setpoin2/tratskitchen/billing.php on line 423
+[09-Jan-2019 20:34:14] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 427
+[09-Jan-2019 20:34:14] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 431
+[09-Jan-2019 20:34:14] PHP Notice:  Undefined variable: getTotal in /home3/setpoin2/tratskitchen/billing.php on line 435
+[09-Jan-2019 20:35:30] PHP Notice:  Undefined variable: sub_total in /home3/setpoin2/tratskitchen/billing.php on line 427
+[09-Jan-2019 20:35:30] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 431
+[09-Jan-2019 20:35:30] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 435
+[09-Jan-2019 20:35:30] PHP Notice:  Undefined variable: getTotal in /home3/setpoin2/tratskitchen/billing.php on line 439
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: sub_total in /home3/setpoin2/tratskitchen/billing.php on line 427
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 431
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 435
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: getTotal in /home3/setpoin2/tratskitchen/billing.php on line 439
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: sub_total in /home3/setpoin2/tratskitchen/billing.php on line 427
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 431
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 435
+[09-Jan-2019 20:35:33] PHP Notice:  Undefined variable: getTotal in /home3/setpoin2/tratskitchen/billing.php on line 439
+[09-Jan-2019 20:35:58] PHP Notice:  Undefined variable: sub_total in /home3/setpoin2/tratskitchen/billing.php on line 369
+[09-Jan-2019 20:35:58] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 373
+[09-Jan-2019 20:35:58] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 377
+[09-Jan-2019 20:35:58] PHP Notice:  Undefined variable: getTotal in /home3/setpoin2/tratskitchen/billing.php on line 381
+[09-Jan-2019 20:36:36] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:36:36] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:36:57] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:36:57] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:36:57] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:36:57] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:36:58] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:36:58] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:36:58] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:36:58] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:37:03] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:37:03] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:37:26] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:37:26] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:40:58] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:40:58] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:45:21] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:45:21] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 20:59:07] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 20:59:07] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[09-Jan-2019 21:25:17] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[09-Jan-2019 21:25:17] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[14-Jan-2019 12:24:18] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[14-Jan-2019 12:24:18] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[14-Jan-2019 12:26:38] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[14-Jan-2019 12:26:38] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[14-Jan-2019 23:51:04] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[14-Jan-2019 23:51:04] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[14-Jan-2019 23:51:13] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[14-Jan-2019 23:51:13] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 2
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 2
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/db.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 2
+[20-Jan-2019 06:33:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../config/db.php' for inclusion (include_path='.:/opt/php52/lib/php') in /home3/setpoin2/tratskitchen/official-receipt.php on line 2
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/main_function.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 3
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/main_function.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 3
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/main_function.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 3
+[20-Jan-2019 06:33:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../config/main_function.php' for inclusion (include_path='.:/opt/php52/lib/php') in /home3/setpoin2/tratskitchen/official-receipt.php on line 3
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 4
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 4
+[20-Jan-2019 06:33:07] PHP Warning:  include(../config/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home3/setpoin2/tratskitchen/official-receipt.php on line 4
+[20-Jan-2019 06:33:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../config/functions.php' for inclusion (include_path='.:/opt/php52/lib/php') in /home3/setpoin2/tratskitchen/official-receipt.php on line 4
+[20-Jan-2019 06:33:07] PHP Fatal error:  Call to undefined function  single_get() in /home3/setpoin2/tratskitchen/official-receipt.php on line 7
+[21-Jan-2019 11:43:49] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[21-Jan-2019 11:43:49] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374
+[21-Jan-2019 12:18:22] PHP Notice:  Undefined variable: reservationFee in /home3/setpoin2/tratskitchen/billing.php on line 370
+[21-Jan-2019 12:18:22] PHP Notice:  Undefined variable: transportationFee in /home3/setpoin2/tratskitchen/billing.php on line 374

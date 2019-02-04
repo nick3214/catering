@@ -1,0 +1,29 @@
+• Dashboard - Control panel (kahit wala na siguro to kuya para mukhang medyo ganon padin yung design sa admin namen)
+• Customer (x)
+• Content of File Maintenenance
+ * Menu
+ * Category
+ * Sub Category
+ * Occasion
+ * Freebies List
+• Yung sa reservations kuya, kahit yung nilalaman nalang katulad dun samen
+• Reports
+ * Reservation Sales Report
+ * Food Order Sales Report
+ * Cancelled Reservations Reports
+ * Re-Scheduled Reservations Reports
+(Pakilagyan nalang din ng annual reports kuya, para present weekly, monthly, yearly)
+• Bale madadagdagan lang ng Food orders, Combo and Messages
+
+Yung sa settings kasi okay na
+=======================================================================================================
+bodyshotgym13@gmail.com
+bodyshotgym2018
+
+database account
+id6951236_tratskitchenette
+tratskitchenette
+
+website account
+tratskitchenette.tk
+tratskitchenette.tk/admin
